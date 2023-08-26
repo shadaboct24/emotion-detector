@@ -70,4 +70,5 @@ python emotions.py --mode display
    X Wang, D Athanasakis, J Shawe-Taylor, M Milakov, J Park, R Ionescu,
    M Popescu, C Grozea, J Bergstra, J Xie, L Romaszko, B Xu, Z Chuang, and
    Y. Bengio. arXiv 2013.
+<img width="666" alt="image" src="https://github.com/shadaboct24/emotion-detector/assets/96643171/5879663e-9423-40fd-ab1a-baf78eade549">
 
